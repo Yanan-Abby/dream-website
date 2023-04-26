@@ -1,0 +1,29 @@
+.content{
+    margin-top: 20px;
+    padding: 16px;
+    display: flex;
+    gap:32px;
+    flex-wrap: wrap;
+    width: 1800px;
+    height: 1500px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px #14141a;;
+    justify-content: center;
+
+}
+
+
+
+.item{
+    width: 200px;
+    height: 310px;
+    background-color: rgba(133, 58, 145, 0.938);
+    text-align: center;
+    color: rgb(229, 230, 231);
+    border-radius: 5px;
+    border-bottom: 2px solid #292727;
+
+
+}
